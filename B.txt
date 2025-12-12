@@ -6,8 +6,16 @@ Hey👋, I'm Priyansu Udayabhanu from Odisha
 
 This repository is created by me for "Git stash"
 
+To rollback we use "git stash apply"
+
 And this is done by the help of Pankaj Sir
 
 Thank You 😊
 
 See You Soon 🙏
+
+
+####The lines down there are being hidden/Stash in git area for Temporarily####
+//All this lines are stashed
+//stash is helpful when you're doing a code during that duration an error is spotted , so you have to fix that error 1st so that you have to pause your work at that time your half developed code is being require to hide for sometime at that time STASH comes to picture
+//git stash apply is use to rollback
